@@ -20,6 +20,10 @@ The goal is to move beyond static reports and enable proactive, data-driven deci
 | **Control Costs** | Identified the **North Region** and **Furniture** as the highest contributors to Total Transportation Cost. | **Action:** Launch a project to renegotiate freight costs or explore alternative logistics partners specifically for Furniture shipments in the North region. |
 ---
 
+## Visualization Insights
+![Dashboard](https://github.com/RashmiSharma1191/Inventory-and-Supply-Chain-Management-Analysis/blob/main/Inventory%20management%20.png)
+---
+
 ## 💡 Future Scope
 1. Add predictive modeling for demand forecasting
 2. Integrate real-time supplier performance data
